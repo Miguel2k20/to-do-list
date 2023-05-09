@@ -1,12 +1,14 @@
 # To do list Do Miguel
 
-Requisitos para rodar o projeto:
+## Siga a documentação abaixo para rodar o projeto em sua maquina! 
+
+### Requisitos para rodar o projeto:
 - Docker
 - Node versão v18.13
 - Yarn
 
 # Backend
-1 - duplicar o arquivo [Env Example](backend-laravel/.env.example) para .env para inserir as informacoes de acesos ao banco de dados, esses dados estão no arquivo [Docker compose.](backend-laravel/.env.example)
+1 - Duplicar o arquivo [Env Example](backend-laravel/.env.example) para .env para inserir as informacoes de acesos ao banco de dados, esses dados estão no arquivo [Docker compose.](backend-laravel/.env.example)
 
 2 - Dentro da pasta [Backend Laravel](backend-laravel/) ligue um terminal, de preferência de um sistema linux 
 
